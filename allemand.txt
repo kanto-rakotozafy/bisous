@@ -1,6 +1,10 @@
 a Vater[fata](pere)
 ä Käse [kaize] (fromage) 
 e Ente [ente] (canard)
+"eu" se lit [oy]
+exemples:
+teuer  [toya] (cher)
+euro [oyro] (euro)
 ei [ai] Zeit [tsait](temps)
 ie [i]  Ziel[tsil] (but)
 g [ge] gerade (tout droit)
